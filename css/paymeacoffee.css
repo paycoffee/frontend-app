@@ -1,0 +1,22 @@
+.pagarcafe:hover{transform:rotate(-2deG);color:brown; -webkit-filter: invert(200%); filter: invert(200%); transition: 2s; border-radius:0px;}
+.slider-text-inner .text{visibility:hidden;position:relative;}
+.programador:hover .text{transition:2s;visibility:visible;}
+#cafes{
+width: 100px;
+	height: 100px;
+	background: red;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+  
+  text-align:center;
+  margin: 0 auto;
+}
+.Count{
+ line-height: 100px;
+  color:white;
+  margin-left:20px;
+  position:absolute;
+  font-size:25px;
+}
+.programador:hover{border-radius:0px;}
